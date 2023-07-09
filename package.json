@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nikitakamelin/ajs-test-node.js/issues"
   },
-  "homepage": "https://github.com/nikitakamelin/ajs-test-node.js#readme"
+  "homepage": "https://github.com/nikitakamelin/ajs-test-node.js#readme",
+  "dependencies": {
+    "@nikitakamelin/ajs": "^1.0.0"
+  }
 }
